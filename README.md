@@ -7,14 +7,14 @@
 ```
 git clone https://github.com/dianping/cat
 ```
-# compile
+# Compile CAT library(libcatclient.so)
 ```
 mkdir cmake
 cd cmake
 cmake ..
 make
 ```
-# Demo
+# Create demo cat-cpp-client
 ```
 mkdir -p {include/cat,libs,src}
 cp /home/cat-master/lib/cpp/include/client.hpp include/cat
@@ -22,7 +22,7 @@ cp /home/cat-master/lib/cpp/cmake/libcatclient.so libs
 ```
 ## main.cpp
 ## Makefile
-###
+## Compile && Run
 ```
 make
 ./catcpp
