@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/NWhistle_Code/!svn/ver/10331/New_whistle/trunk/Server/msgCenter/base/include/librabbitmq/win32
+END
+threads.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/NWhistle_Code/!svn/ver/10331/New_whistle/trunk/Server/msgCenter/base/include/librabbitmq/win32/threads.h
+END
+threads.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/NWhistle_Code/!svn/ver/10331/New_whistle/trunk/Server/msgCenter/base/include/librabbitmq/win32/threads.c
+END

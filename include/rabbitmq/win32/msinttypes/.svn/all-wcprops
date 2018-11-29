@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/NWhistle_Code/!svn/ver/10331/New_whistle/trunk/Server/msgCenter/base/include/librabbitmq/win32/msinttypes
+END
+stdint.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/NWhistle_Code/!svn/ver/10331/New_whistle/trunk/Server/msgCenter/base/include/librabbitmq/win32/msinttypes/stdint.h
+END
